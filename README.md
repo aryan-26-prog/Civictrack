@@ -1,5 +1,5 @@
 🚀 CivicTrack – Smart Civic Issue Reporting & Admin Management System
-A Realtime, AI-ready, Geo-Mapped Community Issue Management Platform
+A Realtime, Geo-Mapped Community Issue Management Platform
 
 CivicTrack is a modern, full-stack MERN application designed to help citizens report civic issues (roads, garbage, water leaks, street lights, etc.) and allow admin teams to review, verify, track, and resolve them in real time.
 
