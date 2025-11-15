@@ -46,9 +46,11 @@ Realtime tracking using Socket.IO
 
 ⚡ Technologies Used
 Layer	Tech
-Frontend	React, Context API, Custom CSS Glassmorphism, Socket.IO client
-Backend	Node.js, Express.js, Socket.IO
-Database	MongoDB (Mongoose)
+Frontend:	React, Context API, Custom CSS Glassmorphism, Socket.IO client
+
+Backend:	Node.js, Express.js, Socket.IO
+
+Database:	MongoDB (Mongoose)
 Auth	JWT (Login/Signup)
 File Upload	Multer
 Map	Leaflet / Mapbox (as per your implementation)
