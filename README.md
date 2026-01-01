@@ -89,7 +89,6 @@ CivicTrack bridges the gap between **citizens** and **authorities** by providing
 
 ## 🧱 Architecture Overview
 
-```text
 Client (React)
    │
    ├── REST APIs (Express + JWT)
